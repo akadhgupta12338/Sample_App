@@ -1,0 +1,7 @@
+- name: play1
+  hosts: tomcat
+  tasks:
+    - name: copying file to tomcat server
+      copy:
+        src: /var/lib/jenkins/workspace/test/target/jenkins-git-integration.war
+        dest: /opt/apache-tomcat-10.0.27/webapps/
