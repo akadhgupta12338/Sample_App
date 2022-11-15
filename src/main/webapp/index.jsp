@@ -1,1 +1,1 @@
-cherrs! Successfully integrated Jenkins with Github. 
+cheers! Successfully integrated Jenkins with Github. 
