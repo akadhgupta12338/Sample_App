@@ -1,4 +1,4 @@
-- name: play1
+- name: play01
   hosts: tomcat
   tasks:
     - name: copying file to tomcat server
