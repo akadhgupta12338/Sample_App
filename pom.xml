@@ -4,7 +4,7 @@
   <groupId>com.amitverma</groupId>
   <artifactId>jenkins-git-integration</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0</version>
+  <version>1.0.2</version>
   <name>jenkins-git-integration Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
