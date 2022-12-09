@@ -1,1 +1,1 @@
-Successfully integrated Jenkins with Github. 
+Sample app build sucessfully
